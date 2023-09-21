@@ -1,4 +1,4 @@
-<h1>JPMorgan-Virtual-Internship</h1>
+[Certificate.pdf](https://github.com/sabyasachi008/JP_MORGANONLINE_INTERNSHIP/files/12690750/Certificate.pdf)<h1>JPMorgan-Virtual-Internship</h1>
 This repository contains the submitted patch files of the various tasks assigned by JPMorgan Chase & Co. through its Software Engineering Virtual Experience Program on Forage.<br>
 Through the program, I had virtual hands-on experience on how software development works at a organization.
 <h2>Task-1 : Interface with a stock price data feed</h2>
@@ -23,5 +23,6 @@ Modify the typescript files in repository to make the web application behave in 
 I worked on, <br>
 <code>technical communication</code>&nbsp&nbsp<code>financial analysis</code>&nbsp&nbsp<code>web applications</code>
 <h2>My Certificate of Completion</h2>
-<img width="584" alt="Certificate.pdf" src="[Certificate.pdf](https://github.com/sabyasachi008/JP_MORGANONLINE_INTERNSHIP/files/12690715/Certificate.pdf)">
+<img width="584" alt="Certificate.pdf" src="[Certificate.pdf][Uploading Certificate.pdf…]()
+(https://github.com/sabyasachi008/JP_MORGANONLINE_INTERNSHIP/files/12690715/Certificate.pdf)">
 
