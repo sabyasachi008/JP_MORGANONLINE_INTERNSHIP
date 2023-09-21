@@ -23,5 +23,6 @@ Modify the typescript files in repository to make the web application behave in 
 I worked on, <br>
 <code>technical communication</code>&nbsp&nbsp<code>financial analysis</code>&nbsp&nbsp<code>web applications</code>
 <h2>My Certificate of Completion</h2>
-<img width="584" alt="[Certificate.pdf]"><(https://github.com/sabyasachi008/JP_MORGANONLINE_INTERNSHIP/files/12690750/Certificate.pdf)">
+[Certificate.pdf](https://github.com/sabyasachi008/JP_MORGANONLINE_INTERNSHIP/files/12690814/Certificate.pdf)
+
 
