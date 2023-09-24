@@ -1,5 +1,5 @@
 <h1>JPMorgan-Virtual-Internship</h1>
->This repository contains the submitted patch files of the various tasks assigned by JPMorgan Chase & Co. through its Software Engineering Virtual Experience Program on Forage.<br>
+This repository contains the submitted patch files of the various tasks assigned by JPMorgan Chase & Co. through its Software Engineering Virtual Experience Program on Forage.<br>
 Through the program, I had virtual hands-on experience on how software development works at a organization.
 <h2>Task-1 : Interface with a stock price data feed</h2>
 I learnt, How to, <br>
