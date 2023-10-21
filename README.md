@@ -24,5 +24,5 @@ I worked on, <br>
 <code>technical communication</code>&nbsp&nbsp<code>financial analysis</code>&nbsp&nbsp<code>web applications</code>
 <h2>My Certificate of Completion</h2>
 
-[Certificate.pdf](https://github.com/sabyasachi008/JP_MORGANONLINE_INTERNSHIP/files/12690896/Certificate.pdf)
+<img src ="https://github.com/sabyasachi008/JP_MORGANONLINE_INTERNSHIP/blob/main/Jp%20morgan.png?raw=true">
 
